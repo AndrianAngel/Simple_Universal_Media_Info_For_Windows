@@ -4,6 +4,86 @@
 
 ---
 
+🎧 Simple Universal Media Info FEATURES
+
+___
+
+
+
+## ⚙️ FLYOUT SETTING
+
+
+
+![A1 Settings](Images/A1.png)
+
+
+
+___
+
+
+
+## 🌞 FLYOUT 01 (Green Text/Bold/Uppercase)
+
+
+
+![A2 Settings](Images/A2.png)
+
+
+
+___
+
+
+
+## 💎 FLYOUT 02 (Colorfull/Bold/Uppercase)
+
+
+
+![A3 Settings](Images/A3.png)
+
+
+
+___
+
+
+
+## 🌿 FLYOUT 03 (Colorfull/Normal Text/Uppercase)
+
+
+
+![A4 Settings](Images/A4.png)
+
+
+
+___
+
+
+
+## 🌹 FLYOUT 04 (Muted)
+
+
+
+![A5 Settings](Images/A5.png)
+
+
+
+___
+
+
+
+## 📽️ Watch Demo Here
+
+
+
+![E.gif Settings](Images/E.gif)
+
+
+
+___
+
+
+
+
+
 ## 📦 Files
 
 | File | Description |
