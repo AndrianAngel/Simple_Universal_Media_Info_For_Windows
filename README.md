@@ -8,12 +8,9 @@
 
 ___
 
-[
-
 ![Latest Release](https://img.shields.io/github/v/release/AndrianAngel/Simple_Universal_Media_Info_For_Windows)
 
-](https://github.com/AndrianAngel/Simple_Universal_Media_Info_For_Windows/releases/latest)
-
+[⬇️ Click here to download](https://github.com/AndrianAngel/Simple_Universal_Media_Info_For_Windows/releases/latest)
 ___
 
 
@@ -289,12 +286,11 @@ ___
 
 ## 📥 Download
 
-[
-
 ![Latest Release](https://img.shields.io/github/v/release/AndrianAngel/Simple_Universal_Media_Info_For_Windows)
 
-](https://github.com/AndrianAngel/Simple_Universal_Media_Info_For_Windows/releases/latest)
+[⬇️ Click here to download](https://github.com/AndrianAngel/Simple_Universal_Media_Info_For_Windows/releases/latest)
 
+___
 | Version | File |
 |--------|------|
 | ✅ Windows 64-bit | `SimpleUniversalMediaInfo_x64.exe` |
