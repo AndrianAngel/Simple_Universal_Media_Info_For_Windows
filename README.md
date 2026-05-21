@@ -268,10 +268,119 @@ The script runs silently in the system tray with no taskbar entry. Right-click t
 
 All settings are saved automatically to an `.ini` file located alongside the script/executable. Settings are loaded on startup and saved on exit or when clicking **SAVE** in the settings panel.
 
+
+___
+
+### 🎯 SIMPLE UNIVERSAL MEDIA INFO — ULTIMATE V2.2
+___
+
+> A lightweight **AutoIt-powered** media info flyout for Windows.  
+> Shows your currently playing media — title, player, file type, date & time — in a sleek dark overlay with transport controls. Works with any media player.
+
 ---
 
-## 📜 License
+## 📥 Download
 
-**Open-source — Non-commercial use only.**
-© AndrianAngel 2026. All rights reserved for commercial use.
-Free to use, modify, and share for personal and non-commercial purposes.
+| Version | File |
+|--------|------|
+| ✅ Windows 64-bit | `SimpleUniversalMediaInfo_x64.exe` |
+| ✅ Windows 32-bit | `SimpleUniversalMediaInfo_x86.exe` |
+| 📦 ZIP (includes exe) | `SimpleUniversalMediaInfo_x64.zip` / `SimpleUniversalMediaInfo_x86.zip` |
+
+> **No installation required.** Just run the `.exe`. Settings are saved automatically in `MediaInfoSettings.ini` next to the exe.
+
+---
+
+## ✨ What's New in V2.2 — Final Fix
+
+
+
+![New](Images/New.png)
+
+
+
+- ✅ **Initialization fix** — No more blank flyout at startup. The overlay now shows full media info immediately on first trigger
+- 🧹 **Compact & user-friendly Settings** — Cleaner layout, easier to read and configure
+- ⌨️ **No more braces for hotkeys** — Just type `F1`, `PGUP`, `VOLUME_UP` — no `{curly braces}` needed
+
+---
+
+## 🎬 How It Works
+
+The flyout detects your media player's window title, extracts the filename, and displays it in a compact dark overlay — Always on Top, non-intrusive, and fully configurable.
+
+- Press your **Toggle Flyout hotkey** (default: `Alt+F1`) to show/hide the info bar
+- The flyout **auto-fades** after a configurable delay when your mouse leaves it
+- Hovering over the flyout **keeps it visible**
+- Automatically appears when your player **starts a new file** (optional)
+- Automatically **hides in fullscreen apps** (optional)
+- Fully **draggable** — it remembers its last position (optional)
+
+---
+
+## 🖱️ Transport Buttons
+
+The flyout includes a right-side control column:
+
+| Button | Action |
+|--------|--------|
+| `+` | Volume Up |
+| `\|<` | Previous Track |
+| `>` / `\|\|` | Play / Pause |
+| `>\|` | Next Track |
+| `-` | Volume Down |
+| `MUTE` | Mute / Unmute toggle |
+
+All button hotkeys (what gets sent to the player) are **fully customizable** in Settings.
+
+---
+
+## 🔗 Settings
+
+
+![A3 Settings](Images/A3.png)
+
+
+
+Open with `Ctrl+Alt+Y` (or your custom hotkey). Configure:
+
+**Player**
+- 📂 Player path (Browse for your `.exe`)
+- 🏷️ Custom player display name (leave empty to use the exe name)
+
+**Global Hotkeys**
+- Toggle Flyout (default: `Alt+F1`)
+- Open Settings (default: `Ctrl+Alt+Y`)
+
+**Button Hotkeys** — what each transport button sends to the player:
+Vol Up, Vol Down, Play/Pause, Previous, Next, Mute
+
+**Behaviour & Look**
+- ☑️ Remember last position + draggable
+- ☑️ Bold font / Uppercase font
+- ☑️ Show flyout when player starts a new file
+- ☑️ Hide in fullscreen app
+- ⏱️ Stay visible for N seconds, then fade out
+
+**Custom Extensions** — add extra formats beyond the built-in list (e.g. `opus,ts,rm`)
+
+**Colors (Hex)** — Title, Player, File Info, Date-Time
+
+> **Hotkey format:** `^` = Ctrl, `+` = Shift, `!` = Alt, `#` = Win
+> Just type the key name directly: `F1`, `PGUP`, `VOLUME_UP`, `SPACE` — no braces needed
+
+---
+
+## ✅ Tray Menu
+
+Right-click the system tray icon:
+
+- **Settings** — Open the settings panel
+- **Exit** — Close the application
+
+---
+
+## 📄 License
+
+Open-Source — Non-commercial usage only.
+© AndrianAngel (Github) — All rights reserved.
