@@ -8,6 +8,14 @@
 
 ___
 
+[
+
+![Latest Release](https://img.shields.io/github/v/release/AndrianAngel/Simple_Universal_Media_Info_For_Windows)
+
+](https://github.com/AndrianAngel/Simple_Universal_Media_Info_For_Windows/releases/latest)
+
+___
+
 
 
 ## ⚙️ FLYOUT SETTING
@@ -280,6 +288,12 @@ ___
 ---
 
 ## 📥 Download
+
+[
+
+![Latest Release](https://img.shields.io/github/v/release/AndrianAngel/Simple_Universal_Media_Info_For_Windows)
+
+](https://github.com/AndrianAngel/Simple_Universal_Media_Info_For_Windows/releases/latest)
 
 | Version | File |
 |--------|------|
