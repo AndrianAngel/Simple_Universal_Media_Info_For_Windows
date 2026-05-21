@@ -294,9 +294,7 @@ ___
 ## ✨ What's New in V2.2 — Final Fix
 
 
-
-![New](Images/New.png)
-
+![A3 Settings](Images/A3.png)
 
 
 - ✅ **Initialization fix** — No more blank flyout at startup. The overlay now shows full media info immediately on first trigger
@@ -337,8 +335,7 @@ All button hotkeys (what gets sent to the player) are **fully customizable** in 
 
 ## 🔗 Settings
 
-
-![A3 Settings](Images/A3.png)
+![New](Images/New.png)
 
 
 
